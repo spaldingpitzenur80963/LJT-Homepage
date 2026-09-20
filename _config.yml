@@ -230,6 +230,7 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
       layout: single
       author_profile: true
       share: true
